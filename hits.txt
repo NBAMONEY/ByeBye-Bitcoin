@@ -1,1 +1,3 @@
+gh repo clone EquityMiner/equity_cracker-v3
+
 
